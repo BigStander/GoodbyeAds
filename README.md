@@ -88,7 +88,7 @@ A programmatically expanded list of hosts used for advertisements, Malware and t
 | Hosts    | [Link](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt)<br>[Mirror](https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Hosts/GoodbyeAds.txt) | Blocky, eBlocker, AdAway, Blokada, RethinkDNS, uMatrix, DNS66, GasMask, HostFileEditor, OpenSnitch, NetGuard, PiHole, Blocky, eBlocker, Diversion, OpenSnitch, PersonalDNSfilter, pfBlockerNG, PersonalBlocklist, TechnitiumDNS              |
 | Adblock  | [Link](https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt)<br>[Mirror](https://cdn.jsdelivr.net/gh/jerryn70/GoodbyeAds@master/Formats/GoodbyeAds-AdBlock-Filter.txt) | AdGuard, AdGuard Home, eBlocker, uBlock, AdBlock, AdBlock Plus, Opera, Vivaldi, Brave, TechnitiumDNS |
 
-### ***Xiaomi Adblock*** 
+### ***Daddy Adblock*** 
       
 A well maintained list containing Xiaomi hosts used for advertisements and tracking. Those who are not using GoodbyeAds list and want to block only Xiaomi ads and tracking can use it.         
          
